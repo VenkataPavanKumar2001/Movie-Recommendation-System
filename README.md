@@ -12,6 +12,6 @@ STEP-2:-Download the similarity file from the below link and place in the same f
     
 STEP-3:- Download and install Anaconda from its official website and run the command in the conda terminal as
         
-        stremlit run movie_recommendation_system.py
+        streamlit run movie_recommendation_system.py
 
 The web application will be deployed on your local system.
